@@ -69,4 +69,4 @@ Chat-Client-Java/
 
 ## ✍️ Autor
 
-Desenvolvido por Beno Lopes Dias(https://github.com/beno1234) 😊
+Desenvolvido por Beno Lopes Dias 😊
